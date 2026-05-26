@@ -1,0 +1,12 @@
+{
+  "name": "bot-dadu-premium",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.0"
+  }
+}
